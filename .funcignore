@@ -1,0 +1,15 @@
+.azure/
+.git*
+.github/
+.vs/
+.vscode/
+bin/
+img/
+infra/
+obj/
+publish/
+tests/
+local.settings.json
+*.binlog
+*.log
+*.pdf
