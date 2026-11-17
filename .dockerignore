@@ -1,0 +1,4 @@
+*
+!dotnet10.Dockerfile
+!publish/
+!publish/**
